@@ -11,6 +11,14 @@ npm run dev
 
 Abre la URL que aparece. A la izquierda está la lista de ejercicios.
 
+## ¿No te funciona en tu computador?
+
+Puedes hacer el taller en el navegador, sin instalar nada. Abre este link, de preferencia en Chrome o Edge:
+
+https://stackblitz.com/github/DEDW2026-React/taller-estado
+
+Espera a que cargue y trabaja ahí mismo. Los tests se corren en la terminal de abajo. Para no perder tu avance, inicia sesión y guarda tu copia con el botón **Fork**.
+
 ## Cómo se trabaja
 
 1. Elige un ejercicio en el menú.
