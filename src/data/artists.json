@@ -1,0 +1,1109 @@
+[
+  {
+    "name": "My Chemical Romance",
+    "id": 319406,
+    "resource_url": "https://api.discogs.com/artists/319406",
+    "uri": "https://www.discogs.com/artist/319406-My-Chemical-Romance",
+    "releases_url": "https://api.discogs.com/artists/319406/releases",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/PAv1us9vKcihhn09tDemUvWFGSzrksnqv-JXTrH2bMo/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxOTQw/Ni0xNzg5NDk5Njc4/LTEzNDcuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/PAv1us9vKcihhn09tDemUvWFGSzrksnqv-JXTrH2bMo/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxOTQw/Ni0xNzg5NDk5Njc4/LTEzNDcuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/DY6u989H6KahNEYYrdk2VbBw1xZeA7fGQOhYdnQXRpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxOTQw/Ni0xNzg5NDk5Njc4/LTEzNDcuanBlZw.jpeg",
+        "width": 600,
+        "height": 337
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cGNrCU9n4Qb-BvJFmIZ-im7gfvt5UPnOeCbuHPHrd1Q/rs:fit/g:sm/q:90/h:366/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxOTQw/Ni0xNTg4NzUyNTk5/LTg3NzQuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/cGNrCU9n4Qb-BvJFmIZ-im7gfvt5UPnOeCbuHPHrd1Q/rs:fit/g:sm/q:90/h:366/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxOTQw/Ni0xNTg4NzUyNTk5/LTg3NzQuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/JckIg6AbEA97AVxI9pax9EvIjqPAmEIeRj_ia5J4nbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxOTQw/Ni0xNTg4NzUyNTk5/LTg3NzQuanBlZw.jpeg",
+        "width": 600,
+        "height": 366
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kzkby6Tmbuu2ypvHxODqT11ER2ygaPd7AaK29RUkKm0/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxOTQw/Ni0xNTMwNTkxNzc2/LTExMTIuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/kzkby6Tmbuu2ypvHxODqT11ER2ygaPd7AaK29RUkKm0/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxOTQw/Ni0xNTMwNTkxNzc2/LTExMTIuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/HgK_go7n4FuiTj2E_xSXVMK0DtovZhoUFBa2QQGvoSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxOTQw/Ni0xNTMwNTkxNzc2/LTExMTIuanBlZw.jpeg",
+        "width": 600,
+        "height": 400
+      }
+    ],
+    "profile": "My Chemical Romance is an American rock band from New Jersey, formed in September 2001. The band consists of lead vocalist Gerard Way, guitarists Ray Toro and Frank Iero, and bassist Mikey Way. Shortly after forming, the band signed to Eyeball Records and released their debut album I Brought You My Bullets, You Brought Me Your Love in 2002. They signed with Reprise Records the next year and released their major label debut Three Cheers for Sweet Revenge in 2004; the album was a commercial success, and was awarded platinum status a little over a year later. The band eclipsed their previous success with their 2006 concept album, The Black Parade, which gained generally favorable reviews among music critics. They have since finished recording their fourth studio album, Danger Days: The True Lives of the Fabulous Killjoys, which was released in November 2010. On March 22, 2013, the band announced their break up. On October 31, 2019, the band announced a reunion, with an opening show in Los Angeles.",
+    "urls": [
+      "http://www.mychemicalromance.com",
+      "https://www.facebook.com/MyChemicalRomance",
+      "https://twitter.com/mcrofficial",
+      "http://www.youtube.com/mychemicalromance",
+      "https://genius.com/artists/My-chemical-romance",
+      "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+      "https://www.music-tracker.com/artist/my-chemical-romance",
+      "https://www.imdb.com/name/nm1987178/",
+      "https://www.instagram.com/mychemicalromance/",
+      "https://www.tiktok.com/@mychemicalromance?lang=en&is_from_webapp=1&sender_device=mobile&sender_web_id=7675423504142632461"
+    ],
+    "namevariations": [
+      "Chemical Romance",
+      "MCR",
+      "My Chemical Romance.",
+      "My Chemical Romane"
+    ],
+    "aliases": [
+      {
+        "id": 2113935,
+        "name": "The Mad Gear And Missile Kid",
+        "resource_url": "https://api.discogs.com/artists/2113935"
+      }
+    ],
+    "members": [
+      {
+        "id": 319410,
+        "name": "Gerard Way",
+        "resource_url": "https://api.discogs.com/artists/319410",
+        "active": true
+      },
+      {
+        "id": 436641,
+        "name": "James Dewees",
+        "resource_url": "https://api.discogs.com/artists/436641",
+        "active": false
+      },
+      {
+        "id": 648922,
+        "name": "Frank Iero",
+        "resource_url": "https://api.discogs.com/artists/648922",
+        "active": true
+      },
+      {
+        "id": 648923,
+        "name": "Ray Toro",
+        "resource_url": "https://api.discogs.com/artists/648923",
+        "active": true
+      },
+      {
+        "id": 648924,
+        "name": "Mikey Way",
+        "resource_url": "https://api.discogs.com/artists/648924",
+        "active": true
+      },
+      {
+        "id": 648925,
+        "name": "Bob Bryar",
+        "resource_url": "https://api.discogs.com/artists/648925",
+        "active": false
+      },
+      {
+        "id": 756201,
+        "name": "Jarrod Alexander",
+        "resource_url": "https://api.discogs.com/artists/756201",
+        "active": true
+      },
+      {
+        "id": 1532595,
+        "name": "Matt Pelissier",
+        "resource_url": "https://api.discogs.com/artists/1532595",
+        "active": false
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "genre": "Alternative"
+  },
+  {
+    "name": "System Of A Down",
+    "id": 85889,
+    "resource_url": "https://api.discogs.com/artists/85889",
+    "uri": "https://www.discogs.com/artist/85889-System-Of-A-Down",
+    "releases_url": "https://api.discogs.com/artists/85889/releases",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/jXj0xlQxbVXMbR55GY9bvMFPMthknRw7yTkSdsXFzTQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg1ODg5/LTE2NDY2ODQ4Nzgt/Nzk0OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/jXj0xlQxbVXMbR55GY9bvMFPMthknRw7yTkSdsXFzTQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg1ODg5/LTE2NDY2ODQ4Nzgt/Nzk0OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/QwVW_O3YnOxZwD1pL_PhJRUSRKdJAbbNIVtfFNSVKeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg1ODg5/LTE2NDY2ODQ4Nzgt/Nzk0OS5qcGVn.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0H5wuORqjLelMDcb33sAPVmhS1vP8mHtXYY64UTfPiI/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg1ODg5/LTE2NDY2ODQ4Nzgt/NTAwNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/0H5wuORqjLelMDcb33sAPVmhS1vP8mHtXYY64UTfPiI/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg1ODg5/LTE2NDY2ODQ4Nzgt/NTAwNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/wfhtFJWAGPbU7GhkpVDH0IKo5XmB5NGssKF6yB-BDbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg1ODg5/LTE2NDY2ODQ4Nzgt/NTAwNi5qcGVn.jpeg",
+        "width": 600,
+        "height": 399
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Ukds1oKjKvKo4y-fqQZ0xcVQf3ThCZztMyNlkb2i3W0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg1ODg5/LTE2MDMwNTE0Nzkt/NjUyOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Ukds1oKjKvKo4y-fqQZ0xcVQf3ThCZztMyNlkb2i3W0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg1ODg5/LTE2MDMwNTE0Nzkt/NjUyOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/wmHrpiXlbfOUNo7kgaHjmfqHG9LC53Q3DhrB_osASp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg1ODg5/LTE2MDMwNTE0Nzkt/NjUyOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "profile": "System of a Down, sometimes shortened to System and abbreviated as SOAD, is an Armenian-American heavy metal band from Glendale, California, formed in February 1995. The band currently consists of Serj Tankian (lead vocals, keyboards), Daron Malakian (vocals, guitar), Shavo Odadjian (bass, backing vocals) and John Dolmayan (drums).\r\n\r\nThe band achieved commercial success with the release of five studio albums, three of which debuted at number one on the Billboard 200. System of a Down has been nominated for four Grammy Awards, and their song \"B.Y.O.B.\" won the Best Hard Rock Performance of 2006. The group went on hiatus in August 2006 and came together again in November 2010, embarking on a tour for the following three years. System of a Down has sold over 40 million records worldwide, and two of their singles, \"Aerials\" and \"Hypnotize\", reached number one on Billboard's Alternative Songs chart.",
+    "urls": [
+      "https://systemofadown.com",
+      "https://www.facebook.com/systemofadown",
+      "https://systemofadown.bandcamp.com",
+      "https://www.instagram.com/systemofadown/",
+      "https://twitter.com/systemofadown",
+      "https://www.myspace.com/soad",
+      "http://en.wikipedia.org/wiki/System_of_a_Down",
+      "https://genius.com/artists/System-of-a-down",
+      "https://www.setlist.fm/setlists/system-of-a-down-23d69cd7.html",
+      "https://www.last.fm/fr/music/System+of+a+Down"
+    ],
+    "namevariations": [
+      "S.O.A.D.",
+      "SOAD",
+      "System Of Down",
+      "System Of The Down",
+      "System Pf A Down",
+      "システム・オブ・ア・ダウン",
+      "墮落體制合唱團"
+    ],
+    "members": [
+      {
+        "id": 153410,
+        "name": "Serj Tankian",
+        "resource_url": "https://api.discogs.com/artists/153410",
+        "active": true
+      },
+      {
+        "id": 282929,
+        "name": "Daron Malakian",
+        "resource_url": "https://api.discogs.com/artists/282929",
+        "active": true
+      },
+      {
+        "id": 525809,
+        "name": "John Dolmayan",
+        "resource_url": "https://api.discogs.com/artists/525809",
+        "active": true
+      },
+      {
+        "id": 525811,
+        "name": "Shavo Odadjian",
+        "resource_url": "https://api.discogs.com/artists/525811",
+        "active": true
+      },
+      {
+        "id": 1540485,
+        "name": "Andy Khachaturian",
+        "resource_url": "https://api.discogs.com/artists/1540485",
+        "active": false
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "genre": "Metal"
+  },
+  {
+    "name": "Pierce The Veil",
+    "id": 1055467,
+    "resource_url": "https://api.discogs.com/artists/1055467",
+    "uri": "https://www.discogs.com/artist/1055467-Pierce-The-Veil",
+    "releases_url": "https://api.discogs.com/artists/1055467/releases",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/qItgS5vOjb_TFeceeMJCdpSFLmZcP1WmjfBXR2YwIhQ/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwNTU0/NjctMTY4Njc5MDg1/Mi00ODM1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/qItgS5vOjb_TFeceeMJCdpSFLmZcP1WmjfBXR2YwIhQ/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwNTU0/NjctMTY4Njc5MDg1/Mi00ODM1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/jqLCDplC4KuAE4LgkBTQlbzjpGcGwYuFSClGCvj7Dro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwNTU0/NjctMTY4Njc5MDg1/Mi00ODM1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 400
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-UX2vyoNudzloDY0mNo_fgCwa9SOPt0-Ad3KuDb-9xQ/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwNTU0/NjctMTY4Njc5MDg0/OC05ODkzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/-UX2vyoNudzloDY0mNo_fgCwa9SOPt0-Ad3KuDb-9xQ/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwNTU0/NjctMTY4Njc5MDg0/OC05ODkzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/-xGzV22AkTFCFVA_TgcKoiHkPAhYAdcLWrzGo40kly4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwNTU0/NjctMTY4Njc5MDg0/OC05ODkzLmpwZWc.jpeg",
+        "width": 600,
+        "height": 337
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fKgezp4JmQozf3pnbTDs2ZPDMd_WOfTJ0sikhDHnmrA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwNTU0/NjctMTY0NDY0MzY0/OS01OTY4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/fKgezp4JmQozf3pnbTDs2ZPDMd_WOfTJ0sikhDHnmrA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwNTU0/NjctMTY0NDY0MzY0/OS01OTY4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/PnT2T7_DudTsm6FuEAZefIWXTUjKGFduT2mg0_yi7aY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwNTU0/NjctMTY0NDY0MzY0/OS01OTY4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "profile": "American post-hardcore band from San Diego, CA, USA. Formed in 2006 by the brothers Mike Fuentes and Vic Fuentes.\r\n\r\nMembers:\r\nVic Fuentes – lead vocals, rhythm and lead guitar, keyboards (2006 - present)\r\nTony Perry – lead guitar (2007 - present)\r\nJaime Preciado – bass, backing vocals (2007 - present)\r\n\r\nPast Members:\r\nMike Fuentes – drums, percussion, backing vocals (2006 - 2017)",
+    "urls": [
+      "http://www.piercetheveil.net",
+      "http://www.facebook.com/piercetheveil",
+      "http://www.twitter.com/piercetheveil",
+      "https://www.instagram.com/piercetheveil/",
+      "https://piercetheveil.bandcamp.com/music",
+      "https://www.youtube.com/channel/UCyipvkWkNpmEQPGovalDjFA",
+      "http://en.wikipedia.org/wiki/Pierce_the_Veil"
+    ],
+    "namevariations": [
+      "ピアス・ザ・ヴェイル"
+    ],
+    "members": [
+      {
+        "id": 1111150,
+        "name": "Mike Fuentes",
+        "resource_url": "https://api.discogs.com/artists/1111150",
+        "active": false
+      },
+      {
+        "id": 1918475,
+        "name": "Vic Fuentes",
+        "resource_url": "https://api.discogs.com/artists/1918475",
+        "active": true
+      },
+      {
+        "id": 3472205,
+        "name": "Jaime Preciado",
+        "resource_url": "https://api.discogs.com/artists/3472205",
+        "active": true
+      },
+      {
+        "id": 3472354,
+        "name": "Tony Perry",
+        "resource_url": "https://api.discogs.com/artists/3472354",
+        "active": true
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "genre": "Alternative"
+  },
+  {
+    "name": "Linkin Park",
+    "id": 40029,
+    "resource_url": "https://api.discogs.com/artists/40029",
+    "uri": "https://www.discogs.com/artist/40029-Linkin-Park",
+    "releases_url": "https://api.discogs.com/artists/40029/releases",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/SdPvVMgMoCnDjZ_JdZrEjA-Xgdwr6MoZ8yjCzxyx0WY/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwMDI5/LTE3NDMxODY0MjEt/NzAxNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/SdPvVMgMoCnDjZ_JdZrEjA-Xgdwr6MoZ8yjCzxyx0WY/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwMDI5/LTE3NDMxODY0MjEt/NzAxNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/QlsGpRvk9SIvln2Aa0hAMPTJkiH_OPtWKud5tCSGhPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwMDI5/LTE3NDMxODY0MjEt/NzAxNC5qcGVn.jpeg",
+        "width": 600,
+        "height": 400
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/yXLh4uJj9v4q_OgdDGvzKRPtxeC_begbVgXUXTFF2Gg/rs:fit/g:sm/q:90/h:333/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwMDI5/LTE3MjU4MzU0MTMt/OTQ4MC5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/yXLh4uJj9v4q_OgdDGvzKRPtxeC_begbVgXUXTFF2Gg/rs:fit/g:sm/q:90/h:333/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwMDI5/LTE3MjU4MzU0MTMt/OTQ4MC5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/VBm61t34D8sht_2EqdbMericUkinGtZEyEFTd7bMg1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwMDI5/LTE3MjU4MzU0MTMt/OTQ4MC5wbmc.jpeg",
+        "width": 600,
+        "height": 333
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/47JSjzdkpclOgxXjrBz1KCF1KGffXXqMUrRSOFm6eTI/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwMDI5/LTE3OTE4MzY2MDQt/NTI4Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/47JSjzdkpclOgxXjrBz1KCF1KGffXXqMUrRSOFm6eTI/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwMDI5/LTE3OTE4MzY2MDQt/NTI4Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/QYq3h_Wvsx9os6c1YrDaD3TSk_Os5tvKVzuTHtF5l-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwMDI5/LTE3OTE4MzY2MDQt/NTI4Ni5qcGVn.jpeg",
+        "width": 600,
+        "height": 400
+      }
+    ],
+    "profile": "American alternative rock/nu metal band from Agoura Hills, California.\nOriginally formed in 1996 as Xero by Mike Shinoda and Mark Wakefield, the lineup soon expanded to include guitarist Brad Delson, bassist Phoenix Farrell, drummer Rob Bourdon, and DJ Joe Hahn. After Wakefield left the group in 1998, Chester Bennington replaced him as lead singer in 1999, and the band changed its name to Hybrid Theory. In 2000, the name was changed once more to Linkin Park.\nThe band released seven studio albums between 2000 and 2017 with the aforementioned lineup. They went on hiatus following Bennington’s death in 2017, later issuing anniversary editions of Hybrid Theory and Meteora (2020 to 2023), and the greatest-hits album Papercuts in 2024. In September 2024, the band announced their return, introducing Emily Armstrong as their new vocalist and Colin Brittain as their new drummer.\n\nCurrent members:\nMike Shinoda –  Vocals / rhythm guitar / keys (1996-present)\nBrad Delson – Lead guitar / backing vocals (1997-present)\nJoe Hahn – Turntables / synthesizers / samples / backing vocals (1997-present)\nDave \"Phoenix\" Farrell – Bass / backing vocals / occasional synths (1997-1999, 2000-present)\nEmily Armstrong – Vocals / occasional guitar (2024-present)\nColin Brittain – Drums / guitar / backing vocals (2024-present)\n\nFormer members:\nChester Bennington – Vocals / occasional guitar and percussion (1999-2017; died 2017)\nRob Bourdon – Drums / percussion / backing vocals (1997-2024)",
+    "urls": [
+      "https://www.linkinpark.com",
+      "https://www.facebook.com/linkinpark/",
+      "https://www.instagram.com/linkinpark",
+      "https://www.threads.com/@linkinpark",
+      "https://linkinpark.tumblr.com",
+      "https://twitter.com/linkinpark",
+      "https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q",
+      "https://www.youtube.com/@LinkinPark",
+      "https://en.wikipedia.org/wiki/Linkin_Park"
+    ],
+    "namevariations": [
+      "Lincoln Park",
+      "Link In Park",
+      "Linkin Parks",
+      "Linkin' Park",
+      "Lion Pride",
+      "リンキン・パーク",
+      "林肯公园",
+      "林肯公园乐队",
+      "林肯公園",
+      "聯合公園",
+      "聯合公園樂團"
+    ],
+    "aliases": [
+      {
+        "id": 901845,
+        "name": "Hybrid Theory (2)",
+        "resource_url": "https://api.discogs.com/artists/901845"
+      },
+      {
+        "id": 1118966,
+        "name": "Xero (5)",
+        "resource_url": "https://api.discogs.com/artists/1118966"
+      },
+      {
+        "id": 8089063,
+        "name": "Mmm...Cookies",
+        "resource_url": "https://api.discogs.com/artists/8089063"
+      }
+    ],
+    "members": [
+      {
+        "id": 86301,
+        "name": "Mike Shinoda",
+        "resource_url": "https://api.discogs.com/artists/86301",
+        "active": true
+      },
+      {
+        "id": 117933,
+        "name": "Scott Koziol",
+        "resource_url": "https://api.discogs.com/artists/117933",
+        "active": false
+      },
+      {
+        "id": 241527,
+        "name": "Chester Bennington",
+        "resource_url": "https://api.discogs.com/artists/241527",
+        "active": false
+      },
+      {
+        "id": 462077,
+        "name": "Brad Delson",
+        "resource_url": "https://api.discogs.com/artists/462077",
+        "active": true
+      },
+      {
+        "id": 517955,
+        "name": "Rob Bourdon",
+        "resource_url": "https://api.discogs.com/artists/517955",
+        "active": false
+      },
+      {
+        "id": 517956,
+        "name": "Joseph Hahn",
+        "resource_url": "https://api.discogs.com/artists/517956",
+        "active": true
+      },
+      {
+        "id": 714876,
+        "name": "Dave Farrell",
+        "resource_url": "https://api.discogs.com/artists/714876",
+        "active": true
+      },
+      {
+        "id": 2708968,
+        "name": "Emily Armstrong",
+        "resource_url": "https://api.discogs.com/artists/2708968",
+        "active": true
+      },
+      {
+        "id": 3830108,
+        "name": "Colin Cunningham",
+        "resource_url": "https://api.discogs.com/artists/3830108",
+        "active": true
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "genre": "Alternative"
+  },
+  {
+    "name": "Queen",
+    "id": 81013,
+    "resource_url": "https://api.discogs.com/artists/81013",
+    "uri": "https://www.discogs.com/artist/81013-Queen",
+    "releases_url": "https://api.discogs.com/artists/81013/releases",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/XztqBh9zPrHpafbPSTRKrSwvTTVZ1JzOhy0I-tyTWo0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxMDEz/LTEyMTE5Nzg2NTku/anBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/XztqBh9zPrHpafbPSTRKrSwvTTVZ1JzOhy0I-tyTWo0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxMDEz/LTEyMTE5Nzg2NTku/anBlZw.jpeg",
+        "uri150": "https://i.discogs.com/0gsk7PVSm1G8Z4WhIrqRE07yrw0gjMt-0Hd6Cmc-EJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxMDEz/LTEyMTE5Nzg2NTku/anBlZw.jpeg",
+        "width": 595,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qZYAUayqZsZvh-kc_HQsDWl2EFZrvag14gBo_isXJ5E/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxMDEz/LTExMDAyNjE2MDgu/anBn.jpeg",
+        "resource_url": "https://i.discogs.com/qZYAUayqZsZvh-kc_HQsDWl2EFZrvag14gBo_isXJ5E/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxMDEz/LTExMDAyNjE2MDgu/anBn.jpeg",
+        "uri150": "https://i.discogs.com/lGrXeHz6IhxSGdZeWyQLUK7Q87seV-S-NyCOo_J3uFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxMDEz/LTExMDAyNjE2MDgu/anBn.jpeg",
+        "width": 600,
+        "height": 586
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qrFnigQKM-WdLHlj5bKgupM3KJBXCbSkWJP42uiME2Y/rs:fit/g:sm/q:90/h:561/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxMDEz/LTE1MDUyNTYzMjAt/NjI5OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/qrFnigQKM-WdLHlj5bKgupM3KJBXCbSkWJP42uiME2Y/rs:fit/g:sm/q:90/h:561/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxMDEz/LTE1MDUyNTYzMjAt/NjI5OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/yPe5ERsepljNerD-yk-7hKoQWN3ALyvSpmMpq4U_01c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxMDEz/LTE1MDUyNTYzMjAt/NjI5OS5qcGVn.jpeg",
+        "width": 600,
+        "height": 561
+      }
+    ],
+    "profile": "Queen is a British rock band formed in London in 1970 from the previously disbanded Smile Rock band. Originally called Smile, later in 1970 singer Freddie Mercury came up with the new name for the band. John Deacon joined in March 1971 giving them their fourth and final bass player.\r\n\r\nThe band has released a total of 18 number-one albums, 18 number-one singles and 10 number-one DVDs, and have sold over 300 million albums worldwide, making them one of the world's best-selling music artists. They have been honoured with seven Ivor Novello awards and were inducted into the Rock and Roll Hall of Fame in 2001.\r\n\r\nLead singer Freddie Mercury died in November 1991 of AIDS-related complications. A year after his death, in April 20 1992 held a tribute concert for the lead singer to commemorate his life featuring all three remaining members and along with many great guest singers and guitarists.\r\n\r\nSince the death of Freddie Mercury in 1991, Brian May and Roger Taylor continued as various \"Queen+\" incarnations. John Deacon has retired from the music business, and opted out of almost all post-Mercury Queen activities, saying \"As far as we are concerned, this is it. There is no point carrying on. It is impossible to replace Freddie\".",
+    "urls": [
+      "https://www.queenonline.com/",
+      "https://www.facebook.com/Queen",
+      "https://en.wikipedia.org/wiki/Queen_(band)",
+      "https://x.com/queenwillrock",
+      "https://myspace.com/queen",
+      "https://www.youtube.com/user/queenofficial",
+      "https://www.last.fm/music/Queen",
+      "https://www.queenworld.com/",
+      "https://www.queenvault.com/",
+      "https://www.queenpedia.com/",
+      "https://www.shanesqueensite.com/",
+      "https://www.ultimatequeen.co.uk/",
+      "https://www.allmusic.com/artist/queen-mn0000858827",
+      "https://www.progarchives.com/artist.asp?id=1755"
+    ],
+    "namevariations": [
+      "Kween",
+      "Q",
+      "QN",
+      "Qeen",
+      "Queen Productions",
+      "Queen+",
+      "Queens",
+      "Quenn",
+      "The Queen",
+      "Куийн",
+      "Куин",
+      "クィーン",
+      "クイーン",
+      "皇后乐队",
+      "皇后合唱团",
+      "皇后合唱團",
+      "皇后樂隊",
+      "퀸"
+    ],
+    "members": [
+      {
+        "id": 79949,
+        "name": "Freddie Mercury",
+        "resource_url": "https://api.discogs.com/artists/79949",
+        "active": false
+      },
+      {
+        "id": 208268,
+        "name": "Roger Taylor",
+        "resource_url": "https://api.discogs.com/artists/208268",
+        "active": true
+      },
+      {
+        "id": 253217,
+        "name": "Brian May",
+        "resource_url": "https://api.discogs.com/artists/253217",
+        "active": true
+      },
+      {
+        "id": 268365,
+        "name": "John Deacon",
+        "resource_url": "https://api.discogs.com/artists/268365",
+        "active": false
+      },
+      {
+        "id": 2845807,
+        "name": "Barry Mitchell",
+        "resource_url": "https://api.discogs.com/artists/2845807",
+        "active": false
+      },
+      {
+        "id": 4164516,
+        "name": "Mike Grose",
+        "resource_url": "https://api.discogs.com/artists/4164516",
+        "active": false
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "genre": "Rock"
+  },
+  {
+    "name": "Metallica",
+    "id": 18839,
+    "resource_url": "https://api.discogs.com/artists/18839",
+    "uri": "https://www.discogs.com/artist/18839-Metallica",
+    "releases_url": "https://api.discogs.com/artists/18839/releases",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/i5QRorxnfHSzBN1QnUkdg9AQXeaqM_yas4MAztL0ERg/rs:fit/g:sm/q:90/h:481/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4ODM5/LTEzMTA1NTI4MDMu/anBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/i5QRorxnfHSzBN1QnUkdg9AQXeaqM_yas4MAztL0ERg/rs:fit/g:sm/q:90/h:481/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4ODM5/LTEzMTA1NTI4MDMu/anBlZw.jpeg",
+        "uri150": "https://i.discogs.com/UIIWIeIQOftn9u0n_9C3Vi8LiRywFXOhU2P4mhDkDRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4ODM5/LTEzMTA1NTI4MDMu/anBlZw.jpeg",
+        "width": 450,
+        "height": 481
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/I6GHp6VlgzYwUCdu5OtAliPIBiM1ESkEIlV_ibUceBw/rs:fit/g:sm/q:90/h:423/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4ODM5/LTE0OTQ1OTI2Njct/OTUxMy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/I6GHp6VlgzYwUCdu5OtAliPIBiM1ESkEIlV_ibUceBw/rs:fit/g:sm/q:90/h:423/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4ODM5/LTE0OTQ1OTI2Njct/OTUxMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/A9yudBJ7gp1e3H0oItORWgB6r-Mewv5psQT09RAf-T4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4ODM5/LTE0OTQ1OTI2Njct/OTUxMy5qcGVn.jpeg",
+        "width": 600,
+        "height": 423
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/KyvFlj4AS_615UrW-C7iiA1Zu0mB5rz9ZZq5JaxexFk/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4ODM5/LTE3NjE5MzQ2MjYt/NTM3OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/KyvFlj4AS_615UrW-C7iiA1Zu0mB5rz9ZZq5JaxexFk/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4ODM5/LTE3NjE5MzQ2MjYt/NTM3OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/-D6cmJx00stx7z1zYxphdnTDoHpyIRF8KDFpjWRcxNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4ODM5/LTE3NjE5MzQ2MjYt/NTM3OS5qcGVn.jpeg",
+        "width": 450,
+        "height": 600
+      }
+    ],
+    "profile": "Thrash Metal (Heavy Metal) band from Los Angeles, California (USA).\r\n\r\nMetallica formed in 1981 by vocalist/guitarist James Hetfield and drummer Lars Ulrich.  The duo first met through an ad in a Los Angeles-based music newspaper.  At the time, Ulrich had little musical experience and no band but managed to secure a slot on an upcoming compilation record called “Metal Massacre”.   Metallica’s contribution, “Hit The Lights”, featured Hetfield, Ulrich and lead guitarist Lloyd Grant.  Afterwards, Ron McGovney became the band's bassist and Dave Mustaine joined the band as lead guitarist.  This line-up would re-record \"Hit The Lights\" for subsequent re-pressings of \"Metal Massacre\" and would also issue several demos.  In 1983, McGovney quit the group and was replaced by Cliff Burton, which also saw the band relocate to San Francisco.  Metallica then traveled to New York after signing a deal with Megaforce Records.  However, once in New York, the band fired Mustaine.  It would mark the beginning of a long feud between Mustaine and Metallica, mostly fueled by remarks Mustaine would make to the press.  Mustaine was replaced by Kirk Hammett of Exodus.\r\n\r\nMetallica's debut LP, \"Kill 'Em All\", was released in 1983.  It was followed in 1984 by \"Ride The Lightning\".  This led to a major label deal with Elektra.  In 1986, the band released \"Master Of Puppets\", which is considered by many to be one of the greatest heavy metal records of all time.  In September of that year, while on tour in Sweden, the band was involved in a bus accident which took the life of Cliff Burton.  Eventually, Jason Newsted (of Flotsam And Jetsam) was hired as the band's new bassist and he made his debut on 1987's \"Garage Days Re-Revisited\", an EP of cover tunes.  The full-length \"...And Justice For All\" followed in 1988, featuring the track \"One\" which was chosen as the subject for their first promotional music video.\r\n\r\nIn 1990, Metallica hooked up with producer Bob Rock for a self-titled release that would become better known as \"The Black Album\", due to its cover art. Released in 1991, the black album would become one of the best-selling rock albums of all time, selling over 16 million copies in the US alone.\r\n\r\nIn 1996, the band experimented with Rock music style Alternative Rock, this could be heard on the album \"Load\".  The following year, \"Reload\" appeared which had the similiar formula as ''Load''. The albums continued the band’s trend of more accessible music.  In 1999, the group released an album and accompanying film called \"S&M\", which featured Metallica performing their songs with the San Francisco Symphony Orchestra.\r\n\r\nIn 2001, as the band was preparing to begin work on a new album, Newsted quit the group, citing personal and musical reasons.  Work on the new album was further complicated when Hetfield entered rehab for alcohol abuse.  The album, called \"St. Anger\", was eventually completed in 2003 with producer Bob Rock handling the bass.  Upon its release, \"St. Anger\" drew mostly negative reviews.  Following the recording, Robert Trujillo, formerly of Suicidal Tendencies, was hired as bassist.  The making of the album was captured in the documentary “Some Kind Of Monster”.\r\n\r\nIn 2008, \"Death Magnetic\", produced by Rick Rubin, would surface and was hailed by many as Metallica's return to thrash metal.  The following year, Metallica was inducted into Rock And Roll Hall of Fame.  Former bassist Jason Newsted was present and Cliff Burton's father appeared on Cliff's behalf.  Dave Mustaine, who was not inducted, was invited to the ceremony by the band but declined to attend.  In 2011, Metallica collaborated with Lou Reed on the album, “Lulu”, which was largely panned by critics and ignored by consumers.\r\n\r\nWinner of 9 Grammy Awards:\r\n- Best Metal Performance for One on ...And Justice For All\r\n- Best Metal Performance for Stone Cold Crazy on Rubáiyát (Elektra's 40th Anniversary)\r\n- Best Metal Performance for Metallica\r\n- Best Metal Performance for Better Than You on Reload\r\n- Best Hard Rock Performance for Whiskey In The Jar on Garage Inc.\r\n- Best Rock Instrumental Performance for The Call Of Ktulu on S&M\r\n- Best Metal Performance for St. Anger on St. Anger\r\n- Best Metal Performance for My Apocalypse on Death Magnetic\r\n- Best Metal Performance for 72 Seasons on 72 Seasons",
+    "urls": [
+      "https://www.metallica.com/",
+      "https://www.instagram.com/metallica/",
+      "https://www.youtube.com/metallica",
+      "https://www.facebook.com/Metallica/",
+      "https://www.tiktok.com/@metallica",
+      "https://www.threads.net/@metallica",
+      "https://x.com/metallica",
+      "https://www.allwithinmyhands.org/",
+      "https://en.wikipedia.org/wiki/Metallica",
+      "https://www.britannica.com/topic/Metallica"
+    ],
+    "namevariations": [
+      "Matallica",
+      "Metalica",
+      "MetalliKiss",
+      "Metallica-97",
+      "Metallika",
+      "Metalmilitia",
+      "Mettallica",
+      "Металика",
+      "Металлика",
+      "メタリカ",
+      "重金屬",
+      "重金屬樂隊",
+      "金属乐队",
+      "金屬製品",
+      "金屬製品合唱團",
+      "金屬製品合圖",
+      "메탈리카"
+    ],
+    "aliases": [
+      {
+        "id": 2506391,
+        "name": "The Lemmy's",
+        "resource_url": "https://api.discogs.com/artists/2506391"
+      },
+      {
+        "id": 7129953,
+        "name": "Four Horsemen (5)",
+        "resource_url": "https://api.discogs.com/artists/7129953"
+      },
+      {
+        "id": 7800961,
+        "name": "Dehaan",
+        "resource_url": "https://api.discogs.com/artists/7800961"
+      }
+    ],
+    "members": [
+      {
+        "id": 18836,
+        "name": "Kirk Hammett",
+        "resource_url": "https://api.discogs.com/artists/18836",
+        "active": true
+      },
+      {
+        "id": 251550,
+        "name": "Lars Ulrich",
+        "resource_url": "https://api.discogs.com/artists/251550",
+        "active": true
+      },
+      {
+        "id": 251808,
+        "name": "Dave Mustaine",
+        "resource_url": "https://api.discogs.com/artists/251808",
+        "active": false
+      },
+      {
+        "id": 251874,
+        "name": "James Hetfield",
+        "resource_url": "https://api.discogs.com/artists/251874",
+        "active": true
+      },
+      {
+        "id": 364982,
+        "name": "Cliff Burton",
+        "resource_url": "https://api.discogs.com/artists/364982",
+        "active": false
+      },
+      {
+        "id": 390503,
+        "name": "Jason Newsted",
+        "resource_url": "https://api.discogs.com/artists/390503",
+        "active": false
+      },
+      {
+        "id": 490079,
+        "name": "Robert Trujillo",
+        "resource_url": "https://api.discogs.com/artists/490079",
+        "active": true
+      },
+      {
+        "id": 509874,
+        "name": "Ron McGovney",
+        "resource_url": "https://api.discogs.com/artists/509874",
+        "active": false
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "genre": "Metal"
+  },
+  {
+    "name": "Green Day",
+    "id": 251593,
+    "resource_url": "https://api.discogs.com/artists/251593",
+    "uri": "https://www.discogs.com/artist/251593-Green-Day",
+    "releases_url": "https://api.discogs.com/artists/251593/releases",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/COY9aVxgQ7eJKOBG-Ebo5VNHzx6hAHGFdFTsxZjbnZY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MTU5/My0xNzI3NTY3NTEz/LTgzNzYuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/COY9aVxgQ7eJKOBG-Ebo5VNHzx6hAHGFdFTsxZjbnZY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MTU5/My0xNzI3NTY3NTEz/LTgzNzYuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/dvSRk8UUULScaQ2T3nb_0lj4sr9A5xG2kWl-eQlta-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MTU5/My0xNzI3NTY3NTEz/LTgzNzYuanBlZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0ZLWZqR2jlA2HxiXLcxtv26zWfvEFOQaGJObRmjiJR0/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MTU5/My0xNzAwNTg1MTQ0/LTk0MjguanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/0ZLWZqR2jlA2HxiXLcxtv26zWfvEFOQaGJObRmjiJR0/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MTU5/My0xNzAwNTg1MTQ0/LTk0MjguanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/YWgMzqwvDXo7PiQIEJeV4iQq54LtDgcrhGjT3KsHJ6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MTU5/My0xNzAwNTg1MTQ0/LTk0MjguanBlZw.jpeg",
+        "width": 600,
+        "height": 448
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YlYvwZUnB4q93A7EfhRE4yuY66wccSrSEJ0g2MmDFZI/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MTU5/My0xNjQxNDAyMTYz/LTIyMjUuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/YlYvwZUnB4q93A7EfhRE4yuY66wccSrSEJ0g2MmDFZI/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MTU5/My0xNjQxNDAyMTYz/LTIyMjUuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/O9ELcxKf88eonCSMxFs7yjNtOt4zZbUN6FPUfSUx650/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MTU5/My0xNjQxNDAyMTYz/LTIyMjUuanBlZw.jpeg",
+        "width": 600,
+        "height": 400
+      }
+    ],
+    "profile": "Pop punk/alternative rock band from East Bay, California. USA.\r\nFormed 1987. \r\nThey were originally called Sweet Children, but changed their name before their first release.\r\n\r\nCurrent Lineup:\r\nBillie Joe Armstrong - Vocals/Guitar (1987-)\r\nMike Dirnt (Michael Pritchard) - Bass/Vocals (1987-)\r\nTré Cool (Frank E. Wright III) - Drums/Vocals (1990-)\r\n\r\nFormer Members:\r\nJohn Kiffmeyer alias Al Sobrante - Drums (1987-1990)",
+    "urls": [
+      "http://www.greenday.com",
+      "http://www.greendaydiscography.com/",
+      "http://www.greenday.de",
+      "http://www.warnermusic.de/green-day",
+      "http://en.wikipedia.org/wiki/Green_Day",
+      "https://www.facebook.com/GreenDay",
+      "https://twitter.com/greenday",
+      "https://www.instagram.com/greenday/",
+      "https://www.youtube.com/greenday"
+    ],
+    "namevariations": [
+      "GD",
+      "Green Days",
+      "Greenday",
+      "グリーン・デイ",
+      "年輕歲月合唱團",
+      "綠日",
+      "綠日樂隊",
+      "緑日樂隊",
+      "绿日",
+      "그린 데이"
+    ],
+    "aliases": [
+      {
+        "id": 6113605,
+        "name": "Sweet Children (3)",
+        "resource_url": "https://api.discogs.com/artists/6113605"
+      }
+    ],
+    "members": [
+      {
+        "id": 401507,
+        "name": "Jason White",
+        "resource_url": "https://api.discogs.com/artists/401507",
+        "active": false
+      },
+      {
+        "id": 411847,
+        "name": "Billie Joe Armstrong",
+        "resource_url": "https://api.discogs.com/artists/411847",
+        "active": true
+      },
+      {
+        "id": 745670,
+        "name": "Frank E. Wright",
+        "resource_url": "https://api.discogs.com/artists/745670",
+        "active": true
+      },
+      {
+        "id": 745674,
+        "name": "Michael Pritchard",
+        "resource_url": "https://api.discogs.com/artists/745674",
+        "active": true
+      },
+      {
+        "id": 1340186,
+        "name": "John Kiffmeyer",
+        "resource_url": "https://api.discogs.com/artists/1340186",
+        "active": false
+      },
+      {
+        "id": 3719884,
+        "name": "Jeff Matika",
+        "resource_url": "https://api.discogs.com/artists/3719884",
+        "active": false
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "genre": "Punk"
+  },
+  {
+    "name": "Adele",
+    "id": 819015,
+    "resource_url": "https://api.discogs.com/artists/819015",
+    "uri": "https://www.discogs.com/artist/819015-Adele-3",
+    "releases_url": "https://api.discogs.com/artists/819015/releases",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/YljpB4UqaQeFCgOMCrvJqsAIXmkchPjxQBza_Gpdjxs/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxOTAx/NS0xNjM3NTQ5Nzk4/LTUzNTYuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/YljpB4UqaQeFCgOMCrvJqsAIXmkchPjxQBza_Gpdjxs/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxOTAx/NS0xNjM3NTQ5Nzk4/LTUzNTYuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/terYFaxLeqxKn08tGgINxmC0voLgBVRkBCKf_KKMqQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxOTAx/NS0xNjM3NTQ5Nzk4/LTUzNTYuanBlZw.jpeg",
+        "width": 600,
+        "height": 399
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/i1GAFVoufjkainrL66eryNNWE0bZ0bLYhnUkd1hQ3V0/rs:fit/g:sm/q:90/h:600/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxOTAx/NS0xNjQ4NzU2MTU4/LTIwOTMuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/i1GAFVoufjkainrL66eryNNWE0bZ0bLYhnUkd1hQ3V0/rs:fit/g:sm/q:90/h:600/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxOTAx/NS0xNjQ4NzU2MTU4/LTIwOTMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/H-CpG5tS5PQOuRwtlbuUAIv0pKiWLoFX9aaKiuMHSp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxOTAx/NS0xNjQ4NzU2MTU4/LTIwOTMuanBlZw.jpeg",
+        "width": 420,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/e3r-_ywCTBBzWzkBm690Am0EjOV96YLc54pgRyGIWac/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxOTAx/NS0xNjM3NTQ5Nzk4/LTc0NzQuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/e3r-_ywCTBBzWzkBm690Am0EjOV96YLc54pgRyGIWac/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxOTAx/NS0xNjM3NTQ5Nzk4/LTc0NzQuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/ZQ6kkdux0JWzrTwrmBGzxspcMQlsrEi4Do4_I4Pwk8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxOTAx/NS0xNjM3NTQ5Nzk4/LTc0NzQuanBlZw.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "realname": "Adele Laurie Blue Adkins",
+    "profile": "British singer-songwriter.\n\nBorn May 5, 1988 in London, England, United Kingdom. \n\nOne of the world's best-selling music artists, with sales of over 120 million records worldwide. The best-selling female artist of the 21st century in the UK and was named the best-selling artist of the 2010s in the US and worldwide.\n\nHas won 16 Grammy Awards, 12 Brit Awards (including three for British Album of the Year), an Academy Award, a Primetime Emmy Award, and a Golden Globe Award.",
+    "urls": [
+      "https://www.adele.com/",
+      "https://www.facebook.com/adele",
+      "https://www.twitter.com/adele",
+      "https://www.instagram.com/adele",
+      "https://www.youtube.com/user/adelelondon",
+      "https://www.youtube.com/user/AdeleVEVO",
+      "https://www.last.fm/music/Adele",
+      "https://myspace.com/adelelondon",
+      "https://en.wikipedia.org/wiki/Adele",
+      "https://www.imdb.com/name/nm2233157/",
+      "https://www.allmusic.com/artist/adele-mn0000503460"
+    ],
+    "namevariations": [
+      "A Del",
+      "Adele",
+      "Adele X",
+      "Adèle",
+      "アデル",
+      "愛黛兒",
+      "阿黛尔"
+    ],
+    "aliases": [
+      {
+        "id": 1638187,
+        "name": "Adele Adkins",
+        "resource_url": "https://api.discogs.com/artists/1638187"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "genre": "Pop"
+  },
+  {
+    "name": "Eminem",
+    "id": 38661,
+    "resource_url": "https://api.discogs.com/artists/38661",
+    "uri": "https://www.discogs.com/artist/38661-Eminem",
+    "releases_url": "https://api.discogs.com/artists/38661/releases",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/OMxoYlGYCVH5XjvvcNxFiRoTcoj4dIkM7Nzs27OLrIw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4NjYx/LTE2NDI5Mjk5NzUt/OTQyOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/OMxoYlGYCVH5XjvvcNxFiRoTcoj4dIkM7Nzs27OLrIw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4NjYx/LTE2NDI5Mjk5NzUt/OTQyOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/v3NvWYZ2kKggKWJi0_djlLVZoIlcsGLTgfYD4QKm6x8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4NjYx/LTE2NDI5Mjk5NzUt/OTQyOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/594jrdTBMe7vXLE2iwAg36Bkiat2zVXkLbLuq-DOKxo/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4NjYx/LTE3NTIxNDc3NTQt/MzMxOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/594jrdTBMe7vXLE2iwAg36Bkiat2zVXkLbLuq-DOKxo/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4NjYx/LTE3NTIxNDc3NTQt/MzMxOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/g7dKkubEkU0YaksFdyEL55U2Lcp75AYI5E5KpfU0Y5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4NjYx/LTE3NTIxNDc3NTQt/MzMxOS5qcGVn.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Wa7lhrfDkDnv_yDDioTUPZnhFKd2JruPxet1YiKsEBs/rs:fit/g:sm/q:90/h:408/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4NjYx/LTE2NjM0NDk3MjUt/MTY1OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Wa7lhrfDkDnv_yDDioTUPZnhFKd2JruPxet1YiKsEBs/rs:fit/g:sm/q:90/h:408/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4NjYx/LTE2NjM0NDk3MjUt/MTY1OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/U0B__t9OdYojQDaAPFXx-iHWEj4xiIkroY1LBjwIprs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4NjYx/LTE2NjM0NDk3MjUt/MTY1OS5qcGVn.jpeg",
+        "width": 600,
+        "height": 408
+      }
+    ],
+    "realname": "Marshall Bruce Mathers III",
+    "profile": "Hip-hop artist and producer from Detroit, Michigan. USA\r\nBorn October 17th, 1972 in St. Joseph, Missouri.\r\n\r\nCommonly styled as EMINƎM and his alter ego Slim Shady.\r\n\r\nHe began his professional music career as a member of Soul Intent along with Proof in 1992.\r\nHe also started his first record label with his group that same year called Mashin' Duck Records, later went on to join D12 and own the label Shady Records.",
+    "urls": [
+      "https://www.eminem.com/",
+      "https://www.instagram.com/eminem",
+      "https://twitter.com/Eminem",
+      "https://www.facebook.com/eminem",
+      "https://www.imdb.com/name/nm0004896/",
+      "https://www.youtube.com/user/EminemMusic",
+      "https://www.youtube.com/user/EminemVEVO",
+      "https://music.apple.com/in/artist/eminem/111051",
+      "https://en.wikipedia.org/wiki/Eminem",
+      "https://equipboard.com/pros/eminem",
+      "https://genius.com/eminem"
+    ],
+    "namevariations": [
+      "E",
+      "E. Minem",
+      "EM",
+      "Em",
+      "Emenem",
+      "Emiem",
+      "Emine",
+      "Eminen",
+      "Eminien",
+      "Enimen",
+      "Feat.",
+      "M",
+      "M & M",
+      "M&M",
+      "M. Mathers",
+      "M.N.M",
+      "MNM",
+      "エミネム",
+      "埃米·納姆",
+      "埃米纳姆",
+      "阿姆"
+    ],
+    "aliases": [
+      {
+        "id": 108184,
+        "name": "Slim Shady",
+        "resource_url": "https://api.discogs.com/artists/108184"
+      },
+      {
+        "id": 644153,
+        "name": "Marshall Mathers",
+        "resource_url": "https://api.discogs.com/artists/644153"
+      },
+      {
+        "id": 787714,
+        "name": "Ken Kaniff",
+        "resource_url": "https://api.discogs.com/artists/787714"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "genre": "Rap"
+  },
+  {
+    "name": "The Weeknd",
+    "id": 2171152,
+    "resource_url": "https://api.discogs.com/artists/2171152",
+    "uri": "https://www.discogs.com/artist/2171152-The-Weeknd",
+    "releases_url": "https://api.discogs.com/artists/2171152/releases",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/LtkvbtrtZxt0LY5IqGmt4KHX0-_QNv6xloFNdzy-i7Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzEx/NTItMTc2MDQ4MTA2/OS03NzM4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/LtkvbtrtZxt0LY5IqGmt4KHX0-_QNv6xloFNdzy-i7Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzEx/NTItMTc2MDQ4MTA2/OS03NzM4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/dCHhqlSRh7ET9Dk3bDNPvDLRh7GVeCAB5jhSj05zvqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzEx/NTItMTc2MDQ4MTA2/OS03NzM4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/d58uA4JJRXwuxShApgsz5FurMJNxn3LCyR4noard5x4/rs:fit/g:sm/q:90/h:250/w:201/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzEx/NTItMTc2MDQ4MTE3/NS05NzMwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/d58uA4JJRXwuxShApgsz5FurMJNxn3LCyR4noard5x4/rs:fit/g:sm/q:90/h:250/w:201/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzEx/NTItMTc2MDQ4MTE3/NS05NzMwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Ym0r0HV8T9ygOU1teu3BwvR9N6z2mOYPvIkeWpUqxTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzEx/NTItMTc2MDQ4MTE3/NS05NzMwLmpwZWc.jpeg",
+        "width": 201,
+        "height": 250
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Hf-TpyX6u08ejBLnHIHdsgjozPF2O-naN53ezBI0u2o/rs:fit/g:sm/q:90/h:600/w:477/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzEx/NTItMTcwMjg0NzU5/MS0xMzgyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/Hf-TpyX6u08ejBLnHIHdsgjozPF2O-naN53ezBI0u2o/rs:fit/g:sm/q:90/h:600/w:477/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzEx/NTItMTcwMjg0NzU5/MS0xMzgyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/xvrUSEHkV3Rlin9vMbDGQKuE8cZvtV3W6T63Q6rKI3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzEx/NTItMTcwMjg0NzU5/MS0xMzgyLmpwZWc.jpeg",
+        "width": 477,
+        "height": 600
+      }
+    ],
+    "realname": "Abel Makkonen Tesfaye",
+    "profile": "Canadian contemporary R&B singer, songwriter and producer, born February 16, 1990 in Toronto, ON, Canada. He is of Ethiopian descent.",
+    "urls": [
+      "https://www.theweeknd.com/",
+      "https://www.facebook.com/theweeknd",
+      "https://instagram.com/theweeknd",
+      "https://www.instagram.com/gene.hackerman/",
+      "https://twitter.com/theweeknd",
+      "https://soundcloud.com/theweeknd",
+      "https://www.youtube.com/user/TheWeekndVEVO",
+      "https://en.wikipedia.org/wiki/The_Weeknd",
+      "https://www.last.fm/music/The+Weeknd",
+      "https://www.imdb.com/name/nm1070597/"
+    ],
+    "namevariations": [
+      "Gims",
+      "The Weekend",
+      "The Week’nd",
+      "The Wekend",
+      "TheWeeknd",
+      "Weekend",
+      "Weeknd",
+      "ザ・ウィークエンド",
+      "威肯"
+    ],
+    "aliases": [
+      {
+        "id": 2838279,
+        "name": "Abel Tesfaye",
+        "resource_url": "https://api.discogs.com/artists/2838279"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "genre": "R&B/Soul"
+  },
+  {
+    "name": "Skrillex",
+    "id": 1472585,
+    "resource_url": "https://api.discogs.com/artists/1472585",
+    "uri": "https://www.discogs.com/artist/1472585-Skrillex",
+    "releases_url": "https://api.discogs.com/artists/1472585/releases",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/8PLy3KfJuGaMZCumPzKOQKVrOjBewjsL19WLgaowutA/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0NzI1/ODUtMTc1MTExMDg0/Mi02NzU2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/8PLy3KfJuGaMZCumPzKOQKVrOjBewjsL19WLgaowutA/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0NzI1/ODUtMTc1MTExMDg0/Mi02NzU2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/evfs7dgjl-zYBuzSJOAfMYW7KoIIP9F-_W2fO-cB_Is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0NzI1/ODUtMTc1MTExMDg0/Mi02NzU2LmpwZWc.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/bx31Q_PqIDDsh47ocwqitHzM913emkeZFPcwvUlSl_U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0NzI1/ODUtMTcwMDI2Mjc1/OC03Njg0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/bx31Q_PqIDDsh47ocwqitHzM913emkeZFPcwvUlSl_U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0NzI1/ODUtMTcwMDI2Mjc1/OC03Njg0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/vCpOhSIKy8eKVAFHPCeMczzTqhIcgE0YTa4hwHLooIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0NzI1/ODUtMTcwMDI2Mjc1/OC03Njg0LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4ZLi8D1ysDNlDRSZMEG7hQfkSSHqarMZb4KqpgT_lKc/rs:fit/g:sm/q:90/h:600/w:465/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0NzI1/ODUtMTY3NjYxNTYz/NC0xMjg5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/4ZLi8D1ysDNlDRSZMEG7hQfkSSHqarMZb4KqpgT_lKc/rs:fit/g:sm/q:90/h:600/w:465/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0NzI1/ODUtMTY3NjYxNTYz/NC0xMjg5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/L3dB1EvZ7TJz4zx-4_MEfFrAYgSy5Ufzsiz4wFiqcew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0NzI1/ODUtMTY3NjYxNTYz/NC0xMjg5LmpwZWc.jpeg",
+        "width": 465,
+        "height": 600
+      }
+    ],
+    "realname": "Sonny John Moore",
+    "profile": "Sonny John Moore (born January 15, 1988), better known by his stage name Skrillex, is an American electronic dance music producer, DJ, and singer-songwriter. He started as the lead singer of the band From First to Last, with whom he recorded two albums. He first pursued a solo career in 2007 and after releasing the Gypsyhook EP in 2009, he began performing under the name Skrillex. His first release was the My Name Is Skrillex EP (2010), followed up by 3 more EPs, including Bangarang. His debut studio album, Recess, was released in 2014 on his own record label Owsla. Skrillex has won a total of six Grammy Awards.\r\n\r\nHas worked in a fish & chip shop.",
+    "urls": [
+      "https://www.skrillex.com/",
+      "https://en.wikipedia.org/wiki/Skrillex",
+      "https://whatgear.com/pro/skrillex",
+      "https://www.facebook.com/skrillex",
+      "https://twitter.com/skrillex",
+      "https://instagram.com/skrillex",
+      "https://www.youtube.com/user/TheOfficialSkrillex",
+      "https://soundcloud.com/skrillex",
+      "https://equipboard.com/pros/skrillex"
+    ],
+    "namevariations": [
+      "DJ Skrillex",
+      "Skrilex",
+      "Skrillex On The Mothership All Over The World",
+      "Skrillex On The Mothership Überall Auf Der Welt",
+      "Skrillez",
+      "Skrillx",
+      "スクリレックス"
+    ],
+    "aliases": [
+      {
+        "id": 479897,
+        "name": "Sonny Moore",
+        "resource_url": "https://api.discogs.com/artists/479897"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "genre": "Electronic"
+  },
+  {
+    "name": "Shakira",
+    "id": 5530,
+    "resource_url": "https://api.discogs.com/artists/5530",
+    "uri": "https://www.discogs.com/artist/5530-Shakira",
+    "releases_url": "https://api.discogs.com/artists/5530/releases",
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Q4QEEtfp1RhoUGVj9ROM7k9zBB8M29qA8W1V47y4NRA/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU1MzAt/MTc3MjcyOTU4OS00/NTM0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/Q4QEEtfp1RhoUGVj9ROM7k9zBB8M29qA8W1V47y4NRA/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU1MzAt/MTc3MjcyOTU4OS00/NTM0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/b5lXfSpUiPSRbXP8LGup4pHZ5Yx_iqAgJa6P3M0LKKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU1MzAt/MTc3MjcyOTU4OS00/NTM0LmpwZWc.jpeg",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/KAtjrbwxo1owMbFqQAZsnbANchWIgxgwAJ0hUlKiWCI/rs:fit/g:sm/q:90/h:600/w:502/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU1MzAt/MTc3MjcyOTYwNy0x/NDkwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/KAtjrbwxo1owMbFqQAZsnbANchWIgxgwAJ0hUlKiWCI/rs:fit/g:sm/q:90/h:600/w:502/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU1MzAt/MTc3MjcyOTYwNy0x/NDkwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/BZwAQdqzF-SUzKH5Or48sDo1C1NuxnUXVs-8JIZXq60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU1MzAt/MTc3MjcyOTYwNy0x/NDkwLmpwZWc.jpeg",
+        "width": 502,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/PIxxMya2pg-DbYYLrMNzMvsUkQb3jXye87Gf3g_kPbs/rs:fit/g:sm/q:90/h:600/w:473/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU1MzAt/MTc1NDc1ODM0My0x/NzM5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/PIxxMya2pg-DbYYLrMNzMvsUkQb3jXye87Gf3g_kPbs/rs:fit/g:sm/q:90/h:600/w:473/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU1MzAt/MTc1NDc1ODM0My0x/NzM5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/SRRWv_sEF8xfPsHFrJPQBbGlNAJ6ixjQLxQFHW-drOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU1MzAt/MTc1NDc1ODM0My0x/NzM5LmpwZWc.jpeg",
+        "width": 473,
+        "height": 600
+      }
+    ],
+    "realname": "Shakira Isabel Mebarak Ripoll",
+    "profile": "Colombian singer and songwriter, born on February 2, 1977 in Barranquilla, Atlántico, Colombia, to a Colombian mother of Spanish-Italian descent and an American father of Lebanese-Italian descent. \r\nWriting songs and belly-dancing since childhood, her first album was released when she was a mere 14 years old.\r\nOther Spanish-language albums followed, each faring better than its predecessor, but it was not until 2001 that she achieved a world-wide breakthrough with the English-language \"Laundry Service\" album.\r\nShakira is fluent in Spanish, English, Italian and Portuguese.",
+    "urls": [
+      "https://www.shakira.com/",
+      "https://www.facebook.com/shakira",
+      "https://shakira.tumblr.com/",
+      "https://www.instagram.com/shakira/",
+      "https://twitter.com/shakira",
+      "https://www.youtube.com/shakira",
+      "https://en.wikipedia.org/wiki/Shakira"
+    ],
+    "namevariations": [
+      "Chakira",
+      "S.",
+      "Schakira",
+      "Shaki",
+      "Shikira",
+      "شكيرة",
+      "シャキラ",
+      "シャキーラ",
+      "夏奇拉",
+      "샤키라"
+    ],
+    "aliases": [
+      {
+        "id": 4548501,
+        "name": "Shakira Isabel Mebarak Ripoll",
+        "resource_url": "https://api.discogs.com/artists/4548501"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "genre": "World/International"
+  }
+]
