@@ -38,6 +38,10 @@ Cada ✓ es algo que ya funciona y cada × es algo que falta. Antes de completar
 
 Los tests revisan lo que hace tu app, no cómo la escribiste. Que pasen no significa que el código esté perfecto. Por ejemplo, revisa que no hayas modificado el estado directamente.
 
+## Las soluciones
+
+El botón **Solución** muestra cómo debería funcionar cada ejercicio. El código de las soluciones está en `src/soluciones/`, pero intenta no mirarlo antes de terminar.
+
 ## Ejercicios
 
 | # | Ejercicio | Practicas |
